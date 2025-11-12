@@ -4,3 +4,6 @@ coverage/
 
 docs/api/index.html
 docs/api/assets/
+
+# Rust build artifacts
+crates/**/target/
